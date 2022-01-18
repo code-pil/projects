@@ -34,7 +34,7 @@ body{
     width: 150px;
     border-bottom-left-radius: 70px;
     border-bottom-right-radius: 70px;
-    top: 425px;
+    top: 55vh;
     transition: 0.5s;
 }
 
@@ -44,7 +44,7 @@ body{
     width: 150px;
     border-bottom-left-radius: 0px;
     border-bottom-right-radius: 0px;
-    top: 425px;
+    top: 55vh;
 }
 
 .eyes{
